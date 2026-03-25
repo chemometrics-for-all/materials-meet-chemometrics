@@ -67,7 +67,7 @@ if "score" not in st.session_state:
 # -----------------------------
 # HEADER
 # -----------------------------
-st.image("/mnt/data/coverture.png", use_column_width=True)
+
 
 st.markdown("## ✦ Learn to SEE Spectra")
 st.markdown("### Train your eye before modeling")
