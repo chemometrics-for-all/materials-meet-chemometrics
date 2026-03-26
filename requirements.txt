@@ -1,8 +1,5 @@
 streamlit
 numpy
-matplotlib
-scipy
 plotly
-io
-random
-requests
+scikit-learn
+pandas
